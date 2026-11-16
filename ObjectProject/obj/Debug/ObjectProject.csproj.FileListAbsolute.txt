@@ -1,0 +1,20 @@
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.exe.config
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.exe
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.pdb
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.AssemblyReference.cache
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.Form1.resources
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.Properties.Resources.resources
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.GenerateResource.cache
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.CoreCompileInputs.cache
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.exe
+C:\Users\calil\OneDrive\University Material\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.pdb
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.exe.config
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.exe
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\bin\Debug\ObjectProject.pdb
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.AssemblyReference.cache
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.Form1.resources
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.Properties.Resources.resources
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.GenerateResource.cache
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.csproj.CoreCompileInputs.cache
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.exe
+D:\VS\Vs\ObjectProgram\ObjectProject\ObjectProject\obj\Debug\ObjectProject.pdb
