@@ -28,6 +28,7 @@ namespace ObjectProject
             a = Convert.ToInt32(textBox1.Text);
             b = Convert.ToInt32(textBox2.Text);
             c = a + b;
+            c++;
             textBox3.Text = c.ToString();
 
         }
